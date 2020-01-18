@@ -14,7 +14,7 @@ class Color:
 def banner():
     print(Color.yellow_bold+"""888888                           888888                """+Color.no_colored+"""BRUTE            
 """+Color.yellow_bold+"""8    8   eeeee  e   e eeeee eeee 8    8 e   e eeeeeee  """+Color.no_colored+"""FORCE
-"""+Color.yellow_bold+"""8eeee8ee 8   8  8   8   8   8    8e   8 8   8 8  8  8  """+Color.no_colored+"""JUST
+"""+Color.yellow_bold+"""8eeee8ee 8   8  8   8   8   8    8e   8 8   8 8  8  8  """+Color.no_colored+"""ONLY
 """+Color.yellow_bold+"""88     8 8eee8e 8e  8   8e  8eee 88   8 8e  8 8e 8  8  """+Color.no_colored+"""FOR
 """+Color.yellow_bold+"""88     8 88   8 88  8   88  88   88   8 88  8 88 8  8  """+Color.no_colored+"""THE
 """+Color.yellow_bold+"""88eeeee8 88   8 88ee8   88  88ee 88eee8 88ee8 88 8  8  """+Color.no_colored+"""DUMMIES
