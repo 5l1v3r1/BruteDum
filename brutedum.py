@@ -100,7 +100,7 @@ def username(choice):
     try:
         if choice == 'Y':
             user_path = str(input(Color.blue_bold+'[?]'+Color.no_colored+' Enter the path of user list:'+Color.white_bold+' '))
-            user_path = user_path.strip()
+            user_path = user_path.strip().strip("'")
 
             if path.isfile(user_path) == True:
                 return user_path
@@ -123,7 +123,7 @@ def username(choice):
 def password():
     try:
         wordlist_path = str(input(Color.blue_bold+'[?]'+Color.no_colored+' Enter the path of wordlist:'+Color.white_bold+' '))
-        wordlist_path = wordlist_path.strip()
+        wordlist_path = wordlist_path.strip().strip("'")
 
         if path.isfile(wordlist_path) == True:
             return wordlist_path
