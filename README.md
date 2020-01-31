@@ -30,9 +30,6 @@ You have to install Hydra, Medusa, Nmap and Ncrack too:
 * Brute force has done
 ![[Running BruteDum on Parrot Security OS - Brute force has done](https://github.com/GitHackTools/Store-the-pictures/blob/master/Brutedum%201.0%204%20-%20Parrot%20Security%20OS.png?raw=true)](https://github.com/GitHackTools/Store-the-pictures/blob/master/Brutedum%201.0%204%20-%20Parrot%20Security%20OS.png)
 
-# Video demo: Watch on Mega.nz
-[![Video demo of BruteDum](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/01_mega_logo.svg/320px-01_mega_logo.svg.png)](https://mega.nz/embed#!w3wx3SoS!PiKfbKQm1kOjzanWxdLsEyq24xSVvSA0K1ANdyYWx64)
-
 # Thank you <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools</span></a> (myself) for programming this tool 🙂
 
 # Contact to coder
