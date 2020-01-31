@@ -39,7 +39,7 @@ def info(victim, protocol):
 
 
 def about():
-    print(Color.yellow_bold+"[i]"+Color.no_colored+" Remember to coder:")
+    print(Color.yellow_bold+"[i]"+Color.no_colored+" Remember to the coder:")
     print("    Website: "+Color.yellow_bold+"https://githacktools.blogspot.com",Color.no_colored)
     print("    Facebook: "+Color.yellow_bold+"@GitHackTools",Color.no_colored)
     print("    Twitter: "+Color.yellow_bold+"@SecureGF",Color.no_colored, exit())
